@@ -1,0 +1,36 @@
+body{
+    background: black;
+    background-color: black;
+    color: white;
+    font-family: 'Comfortaa', cursive;
+    font-size: 1.2em;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+header, footer {
+ color: #0c0b0b;
+ background-color: #aeaca8;
+ width: 100%;
+ height: 50px;
+}
+header{
+    display: inline-flex;
+    font-family: 'Rambla', sans-serif;
+    font-size: 1.1em;
+}
+
+#container{
+    background-image: url(../images/phy11.jpg);
+    display: block;
+    height: 800px;
+}
+
+.otroIntento{
+   color: olive;
+   font-weight: bold;
+}
+
+footer{
+    text-align: center;
+}
